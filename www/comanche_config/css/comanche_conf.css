@@ -1,0 +1,15 @@
+div.Titulo{background-color:#483D8B;text-align:center;}   
+h1.Titulo{margin:0px;color:white;text-align:center;}
+div.Menu_izq{background-color:orange; height:50px; width:50%; float:left; margin:0px;} 
+div.Menu_der{background-color:#D2691E; height:50px; width:50%; float:right; margin:0px;}
+div.P_final{background-color:orange; text-align:center; color:white; width:100%;}
+div.Pie{background-color:#483D8B; text-align:center; color:white; width:100%;}
+h1.Pie{margin:0px;}
+a.Enlace1{color:blue; width:50%; float:right; margin-top:10px;}
+a.Enlace2{color:blue; width:50%; float:left; margin-top:10px;}
+div.Datos_hab{background-color:#00008B; width:50%; float:left; height:400px; margin:0px;}
+h2{text-align:center; color:Orange;}
+div.Datos_sen{background-color:#00008B; width:50%; float:right; height:400px; margin:0px;}
+table{margin-left:20px; width:60%; color:white}
+a.Enalce_volver{width:100%; background-color:orange; margin-algin:center}
+.footer_text{text-align:center;color:white}
